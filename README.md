@@ -59,7 +59,7 @@ project-folder/
 
 1. Clone or download the project.
 2. Open with a Live Server (e.g., VS Code Live Server) or deploy on any web host.
-3. Make sure all images are placed correctly inside the `img/` and `screenshots/` folders.
+3. Make sure all images are placed correctly inside the `img/`folder.
 
 ## 📃 License
 
