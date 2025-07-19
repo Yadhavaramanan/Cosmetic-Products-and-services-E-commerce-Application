@@ -18,15 +18,15 @@ A responsive and elegant multi-page website for luxury service offerings, built 
 
 ### 🔹 Home Page
 
-![Home Page Screenshot](screenshots/homepage.png)
+![Home Page Screenshot](screenshot1.png)
 
 ### 🔹 Menu Page
 
-![Menu Page Screenshot](screenshots/menu.png)
+![Menu Page Screenshot](screenshot2.png)
 
 ### 🔹 Responsive View
 
-![Mobile View Screenshot](screenshots/mobile-view.png)
+![Mobile View Screenshot](screenshot3.png)
 
 > Replace the image paths (`screenshots/*.png`) with your own screenshots saved in a `screenshots/` folder.
 
@@ -38,7 +38,7 @@ A responsive and elegant multi-page website for luxury service offerings, built 
 - Responsive Design Principles
 
 ## 📂 File Structure
-
+```
 project-folder/
 ├── index.html
 ├── menu.html
@@ -54,7 +54,7 @@ project-folder/
 │ └── mobile-view.png
 └── README.md
 
-
+```
 ## 💡 How to Use
 
 1. Clone or download the project.
