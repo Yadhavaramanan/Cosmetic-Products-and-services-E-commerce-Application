@@ -58,6 +58,9 @@ project-folder/
 ## 💡 How to Use
 
 1. Clone or download the project.
+  ```
+https://github.com/Yadhavaramanan/Cosmetic-Products-and-services-E-commerce-Application.git
+```
 2. Open with a Live Server (e.g., VS Code Live Server) or deploy on any web host.
 3. Make sure all images are placed correctly inside the `img/`folder.
 
